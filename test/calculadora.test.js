@@ -13,7 +13,7 @@ describe('RT - Verificar classe Calculadora', ()=>{
         expect(calc.subtracao(4,2)).toBe(2);
         expect(calc.multiplicacao(4,2)).toBe(8);
         expect(calc.divisao(4,2)).toBe(2);
-        expect(calc.divisao(35,7)).toBe(6);
+        expect(calc.divisao(35,7)).toBe(5);
     });
 
     test('CN - Testar calculadora com valores negativos', ()=> {
