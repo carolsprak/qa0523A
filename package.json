@@ -1,0 +1,15 @@
+{
+  "name": "qa0523a",
+  "version": "1.0.0",
+  "description": "Projeto para ensino do Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["Jest, Calculadora"],
+  "author": "Anne Rocha",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
